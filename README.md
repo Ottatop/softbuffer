@@ -1,3 +1,6 @@
+> [!NOTE]
+> This fork contains a patch to enable transparency on Wayland.
+
 # Softbuffer
 
 Enables software rendering via drawing an image straight to a window.
